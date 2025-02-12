@@ -1,9 +1,22 @@
 # Algorithms
 
-## Requirements
+## Dependencies
 
-- [GCC (14.2.0)](https://gcc.gnu.org/)
-- [CMake (3.31.2)](https://cmake.org/)
+- [CMake 3](https://cmake.org/)
+- [GCC 14](https://gcc.gnu.org/)
+
+## Roadmap
+
+- [ ] Searching
+  - [ ] Binary Search
+  - [ ] Linear Search
+- [ ] Sorting
+  - [ ] Bubble Sort
+  - [ ] Heap Sort
+  - [ ] Insertion Sort
+  - [ ] Merge Sort
+  - [ ] Quick Sort
+  - [ ] Selection Sort
 
 ## License
 
