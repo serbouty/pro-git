@@ -3,7 +3,7 @@
 ## Roadmap
 
 - [x] Getting Started
-- [ ] Git Basics
+- [x] Git Basics
 - [ ] Git Branching
 - [ ] Git on the Server
 - [ ] Distributed Git
