@@ -7,7 +7,7 @@
 
 ## Roadmap
 
-- [ ] Getting Started
+- [x] Getting Started
 - [ ] Git Basics
 - [ ] Git Branching
 - [ ] Git on the Server
